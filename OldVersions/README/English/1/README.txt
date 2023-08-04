@@ -1,295 +1,292 @@
 
 ***
 
-# <projectName>
+# [Jobsolete](#Jobsolete)
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+<details open><summary><p><b>Click/tap here to expand/collapse this article</b></p></summary>
 
-# By:
+`🤖️💼️📖️ Documentation regarding the history of jobs made obsolete by automation and Artificial Intelligence`
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+This list is highly incomplete, and needs community help to expand and grow.
 
-### Top
+---
 
-# `README.md`
+## [Background](#Background)
 
-***
+<details open><summary><p><b>Click/tap here to expand/collapse the background section</b></p></summary>
 
-## Read this article in a different language
+Humans being replaced with newer technologies is not a new phenonemon. It is estimated that certain jobs began being phased out with the invention of wheel. There are even records in Ancient Egypt of new farming and masonry techniques replacing certain job fields. Rome had this problem, England and France had this problem in the middle ages (notably with the invention of knitting machine) to the printing press, to examples starting with the Industrial Revolution, with newer technologies such as cars, refridgeration, and more. The list goes on,
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+Jumping forward, in the digital age, there is a rapid increase in jobs being replaced by machines, notably with automation and Artificial Intelligence. This document covers jobs that have been/are currently being replaced by newer technologies.
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+</details>
 
 ***
 
-# <repoName>
-<repo_description>
+## [Coining](#Coining)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the coining section</b></p></summary>
+
+Here are the words I am coining here:
+
+- Jobsolete
+- Jobsoleted
+- Jobsoletion
+
+</details>
 
 ***
 
-## About
+## [Timeline](#Timeline)
 
-See above. <extendedRepoDescription>
+<details open><summary><p><b>Click/tap here to expand/collapse the timeline section</b></p></summary>
+
+The following is a timeline of tasks that have been made jobsolete.
+
+---
+
+### [Pre-history](#Pre-history)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the pre-history section</b></p></summary>
+
+Entries for pre-history are currently coming soon.
+
+</details>
+
+---
+
+### [Middle Ages](#Middle-Ages)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Middle Ages section</b></p></summary>
+
+Entries for the Middle Ages (or Dark Ages) are currently coming soon.
+
+</details>
+
+---
+
+### [Uncategorized (between Middle Ages and 19th century)](#Uncategorized-between-Middle-Ages-and-19th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the uncategorized (Middle Ages to 19th century) section</b></p></summary>
+
+- Manuscript writing (handwriting)
+- **Replaced by:**
+- - The printing press
+- - analog computers
+- - digital computers
+
+</details>
+
+---
+
+### [19th century](#19th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 19th century section</b></p></summary>
+
+Entries for the 19th century are currently coming soon.
+
+</details>
+
+---
+
+### [20th century](#20th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 20th century section</b></p></summary>
+
+#### [Replaced by Artificial Intelligence in the 20th century](#Replaced-by-Artificial-Intelligence-in-the-20th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Replaced by Artificial Intelligence in the 20th century section</b></p></summary>
+
+- This list is currently empty
+
+</details>
+
+#### [Replaced by Automation in the 20th century](#Replaced-by-Automation-in-the-20th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Replaced by Automation in the 20th century section</b></p></summary>
+
+- This list is currently empty
+
+</details>
+
+#### [Replaced by Machines in the 20th century](#Replaced-by-Machines-in-the-20th-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Replaced by Machines in the 20th century section</b></p></summary>
+
+- Digging ditches
+- This list is currently incomplete
+
+</details>
+
+</details>
+
+---
+
+### [21st century](#21st-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 21st century section</b></p></summary>
+
+#### [Being replaced by Artificial Intelligence in the 21st century](#Being-replaced-by-Artificial-Intelligence-in-the-21st-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Being replaced by Artificial Intelligence in the 21st century section</b></p></summary>
+
+- Voice acting
+- This list is currently highly incomplete
+
+</details>
+
+#### [Being replaced by Automation in the 21st century](#Being-replaced-by-Automation-in-the-21st-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Being replaced by Automation in the 21st century section</b></p></summary>
+
+- Driving cargo around
+- Driving passengers around
+- This list is currently highly incomplete
+
+</details>
+
+##### [Being replaced by Machines in the 21st century](#Being-replaced-by-Machines-in-the-21st-century)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Being replaced by Machines in the 21st century section</b></p></summary>
+
+- Package delivery (drones, self-driving cars)
+- Food delivery (drones, self-driving cars)
+- This list is currently highly incomplete
+
+</details>
+
+</details>
+
+</details>
+
+---
+
+## [Conclusion](#Conclusion)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the conclusion section</b></p></summary>
+
+Jobs have never been stable. There has never been a job that is completely guaranteed to last a lfetime. As a wise Greek Philosopher (Heraclitus of Ephesus) [may have](#WikiQuote) once said: **The only constant is change.** The way to go forward is to adapt and change.
+
+</details>
 
 ***
 
-## Wiki
+## [Further reading](#Further-reading)
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+<details open><summary><p><b>Click/tap here to expand/collapse the further reading section</b></p></summary>
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+For further reading about the topics of Jobsoletion.
 
-***
+### [Wikipedia](#Wikipedia)
 
-## Sponsor info
+<details open><summary><p><b>Click/tap here to expand/collapse the Wikipedia section</b></p></summary>
 
-![SponsorButton.png](SponsorButton.png)
+- [`en.wikipedia.org - 2023 SAG-AFTRA strike`](https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike?&useskin=monobook)
+- [`en.wikipedia.org - Technological Unemployment`](https://en.wikipedia.org/wiki/Technological_unemployment?&useskin=monobook)
+- [`en.wikipedia.org - Workplace impact of Artificial Intelligence`](https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence?&useskin=monobook)
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+</details>
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+### [WikiQuote](#WikiQuote)
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+<details open><summary><p><b>Click/tap here to expand/collapse the Wiktionary section</b></p></summary>
 
-***
+- [`en.wikiquote.org - Heraclitus § Disputed quotes`](https://en.wikiquote.org/wiki/Heraclitus#Disputed)
 
-## Version history
+</details>
 
-**Version history currently unavailable**
+</details>
 
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+</details>
 
 ***
 
-## Contributers
+# [File info](#File-info)
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the file info section</u></b></p></summary>
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+**File version:** `1 (2023, Friday, August 4th at 2:22 pm PST)`
 
-> * 2. No other contributers.
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-***
+**Line count (including blank lines and compiler line):** `293`
 
-## Issues
+**Word count:** `1,408`
 
-### Current issues
+**Character count (including spaces):** `9,583`
 
-* None at the moment
+**Character count (excluding spaces):** `8,298`
 
-* No other current issues
+**Size (in bytes):** `9,599`
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
-**TL;DR**
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-### Past issues
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+</details>
 
 ***
 
-## Resources
+## [File history](#File-history)
 
-Here are some other resources for this project:
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+<details><summary><p lang="en"><b>Version 1 (2023, Friday, August 4th at 02:22 pm PST)</b></p></summary>
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `Background` section
+- [x] Added the `Coining` section
+- [x] Added the `Timeline` section
+- - [x] Added the `Pre-history` subsection
+- - [x] Added the `Middle Ages` subsection
+- - [x] Added the `Uncategorized (between Middle Ages and 19th century)` subsection
+- - [x] Added the `19th century` subsection
+- - [x] Added the `20th century` subsection
+- - - [x] Added the `Replaced by Artificial Intelligence in the 20th century` sub-subsection
+- - - [x] Added the `Replaced by Automation in the 20th century` sub-subsection
+- - - [x] Added the `Replaced by Machines in the 20th century` sub-subsection
+- - [x] Added the `21st century` subsection
+- - - [x] Added the `Being replaced by Artificial Intelligence in the 20th century` sub-subsection
+- - - [x] Added the `Being replaced by Automation in the 20th century` sub-subsection
+- - - [x] Added the `Being replaced by Machines in the 20th century` sub-subsection
+- [x] Added the `Conclusion` section
+- [x] Added the `Further reading` section
+- - [x] Added the `Wikipedia` subsection
+- - [x] Added the `WikiQuote` subsection
+- [x] Added the `File info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `File history` section
+- - [x] Added an entry for version 1
+- [x] Added the footer
+- [ ] No other changes in version 1
 
-> * Added the title section
+</details>
 
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+</details>
 
 ***
 
-### You have reached the end of the README file
+# [Footer](#Footer)
 
-[Back to top](#Top) [Exit](https://github.com)
+<details open><summary><p><b>Click/tap here to expand/collapse the footer</b></p></summary>
 
-### EOF
+You have reached the end of this document/page.
+
+</details>
+
+###### [EOF](#EOF)
 
 ***
